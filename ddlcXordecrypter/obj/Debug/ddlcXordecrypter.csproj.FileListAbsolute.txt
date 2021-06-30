@@ -1,0 +1,7 @@
+C:\Users\DHL\source\repos\ddlcXordecrypter\ddlcXordecrypter\bin\Debug\ddlcXordecrypter.exe.config
+C:\Users\DHL\source\repos\ddlcXordecrypter\ddlcXordecrypter\bin\Debug\ddlcXordecrypter.exe
+C:\Users\DHL\source\repos\ddlcXordecrypter\ddlcXordecrypter\bin\Debug\ddlcXordecrypter.pdb
+C:\Users\DHL\source\repos\ddlcXordecrypter\ddlcXordecrypter\obj\Debug\ddlcXordecrypter.csprojAssemblyReference.cache
+C:\Users\DHL\source\repos\ddlcXordecrypter\ddlcXordecrypter\obj\Debug\ddlcXordecrypter.csproj.CoreCompileInputs.cache
+C:\Users\DHL\source\repos\ddlcXordecrypter\ddlcXordecrypter\obj\Debug\ddlcXordecrypter.exe
+C:\Users\DHL\source\repos\ddlcXordecrypter\ddlcXordecrypter\obj\Debug\ddlcXordecrypter.pdb
